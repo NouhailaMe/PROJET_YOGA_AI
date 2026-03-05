@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Yoga AI - Web Dashboard
 
 Le projet fonctionne maintenant en interface web (et non uniquement dans le terminal), tout en gardant le concept original:
@@ -43,3 +44,8 @@ Puis ouvrir l'URL locale fournie par Streamlit (souvent `http://localhost:8501`)
   - matrice de confusion,
   - precision/recall/F1 par classe,
   - distribution des classes.
+=======
+The dataset is available at: [Yogposes][def]
+
+[def]: https://www.kaggle.com/datasets/niharika41298/yoga-poses-dataset/data
+>>>>>>> 427937ed907c2d960273ba1ed53c48ec736d4d2f
