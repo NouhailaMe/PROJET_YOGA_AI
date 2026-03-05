@@ -3,3 +3,6 @@ scikit-learn
 scikit-image
 numpy
 matplotlib
+pandas
+plotly
+streamlit
